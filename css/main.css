@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(227, 223, 223);
+}
+span{
+    color: #fff;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 860px;
+    height: 620px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 90px;
+    margin-bottom: auto;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 2px 2px 60px 1px ;
+}
+.get__in{
+    margin-right: 30px;
+}
+.contact{
+    background-color: rgb(60, 154, 191) ;
+    width: 280px;
+    height: 610px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-right: -60px;
+}
+.contact__wrapper1{
+    margin-top: 70px;
+}
+.contact__title_{
+    color: #fff;
+}
+.contact__title{
+    color: rgb(196, 187, 187);
+}
+.contact__wrapper{
+    display: flex;
+    align-items: center;
+}
+.contact__img_{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.contact__img__{
+    margin-right: 10px;
+}
+.input{
+    font-size:large;
+    width: 216px;
+    height: 30px;
+}
+.input_{
+    width: 445px;
+    height: 30px;
+}
+.SendMessage{
+    width: 110px;
+    height: 40px;
+    color: #fff;
+    background-color: rgb(58, 140, 172);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor:  pointer;
+}
+.textarea{
+    width:445px ;
+}
